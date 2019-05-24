@@ -1,0 +1,22 @@
+{
+  "name": "cliwordguess",
+  "version": "1.0.0",
+  "description": "A Word Guess command line game, utilizing constructors to organize the code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leavinit/cliWordGuess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leavinit/cliWordGuess/issues"
+  },
+  "homepage": "https://github.com/leavinit/cliWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
